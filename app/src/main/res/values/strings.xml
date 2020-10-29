@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListView3</string>
+    <string name="inf"><![CDATA[<]]></string>
+    <string name="doubleinf"><![CDATA[<<]]></string>
+</resources>
